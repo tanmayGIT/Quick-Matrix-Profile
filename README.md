@@ -32,8 +32,9 @@ Here, we can obtain the computational time of the following algorithms :
   5. ACAMP
   6. ACAMP Optimized
 
-<img src="imgs/AAMP_ALL_SubSeqLen_Protien_2.png" width="310"/> <img src="imgs/AAMP_ALL_SubSeqLen_Sheep_2.png" width="310"/> 
-<img src="imgs/AAMP_ALL_SeriesLen_Protien_2.png" width="310"/> <img src="imgs/AAMP_ALL_SeriesLen_Sheep_2.png" width="310"/>
+<img align="center" src="imgs/AAMP_ALL_SubSeqLen_Protien_2.png" width="310"/> <img align="center" src="imgs/AAMP_ALL_SubSeqLen_Sheep_2.png" width="310"/> 
+<img align="center" src="imgs/AAMP_ALL_SeriesLen_Protien_2.png" width="310"/> <img align="center" src="imgs/AAMP_ALL_SeriesLen_Sheep_2.png" width="310"/>
+
 Fig. The execution times of six algorithms with increasing the subsequence length (m): Top Left) Execution time of the six algorithms on a time series of length 68000 (protein dataset). Top Right) Execution time of the six algorithms on a time series of length 50000 (sheep dataset). 
 The execution time of six algorithms are plotted with the increase of time series length (n): c) Execution time of the six algorithms on variable time series length (protein dataset) with m = 256. d) execution time of the six algorithms on variable time series length (sheep dataset) with m = 256.
 
